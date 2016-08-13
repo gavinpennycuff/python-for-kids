@@ -1,0 +1,13 @@
+spaces = ' ' * 25
+print('%s 12 butts Wynd' % spaces)
+print('%s Twinklebottom heath' % spaces)
+print('%s West snoring' % spaces)
+print()
+print()
+print('Dear sir')
+print()
+print('I wish to report that tiles are missing from the')
+print('Out side toilet roof.')
+print(' I think it was bad wind the other night that blew them away.')
+print()
+print('Regards')

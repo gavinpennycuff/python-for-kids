@@ -44,4 +44,4 @@ Traceback (most recent call last):
 NameError: name 'answe2' is not defined
 >>> print ( joke % answer2)
 shin: a tool for finding mettal on ferniture in the dark
->>> 
+>>>
